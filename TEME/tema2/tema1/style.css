@@ -1,0 +1,47 @@
+.div {
+    height: 500px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #d4e798;
+}
+h1 {
+    font-family: 'Concert One', cursive; 
+    font-size: 40px;
+}
+button
+{
+cursor: pointer;
+font-size: 25px;
+background-color: rgb(186, 138, 15);
+color:rgb(41, 28, 28);
+width: 250px;
+height: 35px;
+margin-top: 10px;
+font-family: 'Concert One', cursive;
+
+}
+label{
+font-family: 'Concert One', cursive;
+font-size: 25px;
+margin-bottom: 30px;
+font-style: italic;
+}
+input {
+    font-size: 25px;
+}
+#rezultat{
+    height: 50px;
+    
+}
+#timer {
+    font-family: 'Concert One', cursive;
+    font-size: 30px; 
+    margin-top: 20px; 
+}
+input{
+    height: 35px;
+    width: 250px;
+}
